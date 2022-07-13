@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/ec2-user/SageMaker/classification_test/model/model_01/model_0_123_test_acc_0.8984375.ckpt"
+all_model_checkpoint_paths: "/home/ec2-user/SageMaker/classification_test/model/model_01/model_0_0_test_acc_0.78125.ckpt"
+all_model_checkpoint_paths: "/home/ec2-user/SageMaker/classification_test/model/model_01/model_0_2_test_acc_0.8515625.ckpt"
+all_model_checkpoint_paths: "/home/ec2-user/SageMaker/classification_test/model/model_01/model_0_10_test_acc_0.8671875.ckpt"
+all_model_checkpoint_paths: "/home/ec2-user/SageMaker/classification_test/model/model_01/model_0_33_test_acc_0.8828125.ckpt"
+all_model_checkpoint_paths: "/home/ec2-user/SageMaker/classification_test/model/model_01/model_0_123_test_acc_0.8984375.ckpt"
